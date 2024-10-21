@@ -1,6 +1,13 @@
-remote_theme: sergiokopplin/indigo
+remote-theme: sergiokopplin/indigo
 title: Joan Grebol Tomas
 author: Joan Grebol Tomas
 email: joangrebol@gmail.com / joan.grebol@dipc.org
 
-
+url: https://jgrebol.github.io
+social:
+  - title: LinkedIn
+    url: https://linkedin.com/in/joan-grebol-2bb955208
+  - title: Instagram
+    url: https://instagram.com/jgrebol10
+  - title: X
+    url: https://x.com/jgrebol
