@@ -1,3 +1,9 @@
+---
+layout: home
+title: Joan Grebol Tomas
+description: PhD student in quantum and theoretical chemistry
+---
+
 <h1>💫 About Me:</h1>
 <p>👨‍🔬 PhD student in quantum and theoretical chemistry<br>
 📍 Donostia International Physics Center (DIPC) | Universitat de Girona (UdG)<br>
